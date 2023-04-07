@@ -4,6 +4,8 @@
     height: 100vh;
     padding: 2em;
     padding-top: 6em;
+    background-color: #002e60;
+    
     
 }
 
@@ -27,11 +29,15 @@
     width: 650px;
     max-width: 100%;
     padding: 3em 1em;
-    //background: rgba(var(--card-rgb), 0.1);
     background-color: white;
     border: 3px solid rgba(var(--card-border-rgb), 0.15);
     border-radius: 1em;
     line-height: 4em;
+}
+
+.Home_card__K7aTN{
+    color: black;
+    background-color: white;
 }
 
 .cardInfo{
